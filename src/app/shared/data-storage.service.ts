@@ -17,7 +17,7 @@ export class DataStorageService {
         this.http
             .put('https://angular-recipes-hfo-default-rtdb.europe-west1.firebasedatabase.app/recipes.json', recipes)
             .subscribe(response => {
-                console.log(response);
+
             })
 
     }
