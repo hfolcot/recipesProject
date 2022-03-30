@@ -49,3 +49,4 @@ firebase.json
 .firebase/hosting.ZGlzdFxyZWNpcGVzLXByb2plY3Q.cache
 src/environments/environment.prod.ts
 src/environments/environment.ts
+.vscode/settings.json
